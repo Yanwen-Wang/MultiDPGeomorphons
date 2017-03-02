@@ -1,0 +1,8 @@
+dgpm-compute-1.local slots=8
+dgpm-compute-2.local slots=8
+dgpm-compute-3.local slots=8
+dgpm-compute-4.local slots=8
+dgpm-compute-5.local slots=8
+dgpm-compute-6.local slots=8
+dgpm-compute-7.local slots=8
+dgpm-compute-8.local slots=8
